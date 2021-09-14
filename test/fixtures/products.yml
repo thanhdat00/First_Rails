@@ -20,3 +20,15 @@ ruby:
     delivered fast, you should add Ruby to your toolbox.
   image_url: rails.png
   price: 9.99
+
+rails:
+  title: Agile Web Development With Rails 6
+  description: Rails 6 explained in depth
+  price: 35.00
+  image_url: rails.png
+
+rspec:
+  title: Testing with RSpec
+  description: Learn how to right perfect tests
+  price: 44.50
+  image_url: rails.png
