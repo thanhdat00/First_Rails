@@ -38,8 +38,7 @@ es:
   store:
     index:
       title_html:  "Su Cat&aacute;logo de Pragmatic"
-
-      adding:    "A&ntilde;adir al Carrito"
+      add_html:    "A&ntilde;adir al Carrito"
 
   orders:
     new:
